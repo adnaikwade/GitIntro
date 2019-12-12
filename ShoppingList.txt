@@ -6,3 +6,6 @@ Carrots
 Pears
 Grapes
 Watermelons
+ABC added 2 items as below
+Mango
+Cherries
