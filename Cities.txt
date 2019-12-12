@@ -3,3 +3,6 @@ Delhi
 Mumbai
 Kolkata
 Chennai
+Added new cities
+Banglore
+Hydrabad
